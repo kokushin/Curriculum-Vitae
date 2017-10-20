@@ -90,7 +90,7 @@
 ### その他
 
 - 個人的にOSS活動に注力
-  - npmで公開したフレームワークも多数 [作品例](https://www.npmjs.com/package/uny)
+  - npmで公開したフレームワークも多数 [作品例](https://www.npmjs.com/package/uny)
 
 ## 強み
 
