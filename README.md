@@ -65,7 +65,7 @@
   - SublimeText
   - Atom
 - タスクランナー・バンドラー
-  - Gulp
+  - Gulp
   - Webpack
   - rollup.js
   - PostCSS
