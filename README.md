@@ -30,7 +30,6 @@
   - Node.js
   - Realm
   - Processing
-
 - 日本語
   - ネイティブ
 - 英語
