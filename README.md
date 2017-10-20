@@ -17,7 +17,11 @@
 
 - プログラミング言語
   - HTML5
+  - EJS
+  - Pug
   - CSS3
+  - CSS Next
+  - SCSS
   - JavaScript
   - TypeScript
   - ES2015+
@@ -25,13 +29,14 @@
   - MySQL
   - Node.js
   - Realm
+  - Processing
 
 - 日本語
   - ネイティブ
 - 英語
   - コーディングでよく使う短文を書ける・読める程度
 
-### フレームワーク
+### フレームワーク、ライブラリ
 
 - jQuery
   - 受託でのWebサイト制作実績あり
@@ -41,10 +46,16 @@
   - 受託でのWebサイト制作実績あり
 - Hexo
   - 個人開発レベル [作品例](http://www.codeofduty.me/)
-- Vue.js, React.js, Nuxt.js
+- Vue.js
   - 個人開発レベル [作品例](https://github.com/unys/uny-theme-generator)
+- React.js
+  - 個人開発レベル [作品例](https://github.com/kokushin/myportfoliosite)
 - Codeigniter
   - 個人開発レベル [作品例](http://jane-kei.com/admin)
+- Express
+  - 個人開発レベル
+- Socket.io
+  - 個人開発レベル
   
 ### 開発環境
 
@@ -54,6 +65,13 @@
   - Visual Studio Code
   - SublimeText
   - Atom
+- タスクランナー・バンドラー
+  - Gulp
+  - Webpack
+  - rollup.js
+  - PostCSS
+- テストツール
+  - CircleCI
 - バージョン管理
   - Git(GitHub)
   - Mercurial
