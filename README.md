@@ -44,13 +44,13 @@
 - WordPress
   - 受託でのWebサイト制作実績あり
 - Hexo
-  - 個人開発レベル [作品例 - ブログ](http://www.codeofduty.me/)
+  - 個人開発レベル [作品例 / ブログ](http://www.codeofduty.me/)
 - Vue.js
-  - 個人開発レベル [作品例 - ジェネレータ](https://github.com/unys/uny-theme-generator)
+  - 個人開発レベル [作品例 / ジェネレータ](https://github.com/unys/uny-theme-generator)
 - React.js
-  - 個人開発レベル [作品例 - ポートフォリオサイト](https://github.com/kokushin/myportfoliosite)
+  - 個人開発レベル [作品例 / ポートフォリオサイト](https://github.com/kokushin/myportfoliosite)
 - Codeigniter
-  - 個人開発レベル [作品例 - 管理画面](http://jane-kei.com/admin)
+  - 個人開発レベル [作品例 / 管理画面](http://jane-kei.com/admin)
 - Express
   - 個人開発レベル
 - Socket.io
@@ -90,7 +90,7 @@
 ### その他
 
 - 個人的にOSS活動に注力
-  - npmで公開したフレームワークも多数 [作品例 - CSSフレームワーク](https://www.npmjs.com/package/uny)
+  - npmで公開したフレームワークも多数 [作品例 / CSSフレームワーク](https://www.npmjs.com/package/uny)
 
 ## 強み
 
