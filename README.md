@@ -22,14 +22,14 @@
   - CSS3
   - CSS Next
   - SCSS
-  - JavaScript
+  - JavaScript
   - TypeScript
   - ES2015+
   - PHP
   - MySQL
   - Node.js
   - Realm
-  - Processing
+  - Processing
 - 日本語
   - ネイティブ
 - 英語
