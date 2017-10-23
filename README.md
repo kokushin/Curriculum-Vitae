@@ -53,8 +53,6 @@
   - 個人開発レベル [作品例 / 管理画面](http://jane-kei.com/admin)
 - Express
   - 個人開発レベル
-- Socket.io
-  - 個人開発レベル
   
 ### 開発環境
 
