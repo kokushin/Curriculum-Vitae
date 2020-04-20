@@ -149,6 +149,12 @@
 - HTML5 Nagoya #8 [スライド資料](https://docs.google.com/presentation/d/1i6ZgR6KHCmpXpYHSLb0uqOYLVo2c9Wqq3xpLNA10tUA/pub?start=false&loop=false&delayms=3000&slide=id.p) 
 - 名古屋マークアップ勉強会 1/18 [スライド資料](https://kokushin.github.io/makaben-0118/#/)
 - 名古屋マークアップ勉強会 4/22 [スライド資料](https://kokushin.github.io/makaben-0422/#)
+- Meguro.css #4 [スライド資料](https://slides.com/kokushin/making-css-framework#/)
+- 秋のJavaScript祭り2018 [スライド資料](https://slides.com/kokushin/making-website-nuxtjs#/)
+- エンジニアがスキルアップするための文化・組織づくりLT [スライド資料](https://slides.com/kokushin/makikomu-engineer#/)
+- Nuxt.jsを使ったPWA対応アプリの開発 [紹介記事](https://giginc.co.jp/blog/news/2667)
+- FirebaseではじめるサーバレスSPA開発 [紹介記事](https://www.wantedly.com/companies/giginc/post_articles/126805)
+- フリーランス歓迎！フロントエンド技術を語る会 [イベントページ](https://giginc.connpass.com/event/105478/)
 
 ## 受賞歴
 
