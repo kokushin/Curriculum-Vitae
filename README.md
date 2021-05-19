@@ -133,7 +133,7 @@
 - 社内向けフロントエンド開発テンプレートの実装経験多数
   - [giginc/frontend-templates](https://github.com/giginc/frontend-templates)
 - 社内向け勉強会・イベント主催経験多数
-  - [「Slack」×「アイデア」で世界をより良くするアイデアソン](https://github.com/giginc/frontend-templates)
+  - [「Slack」×「アイデア」で世界をより良くするアイデアソン](https://giginc.co.jp/blog/study/4229)
 
 ## 強み
 
