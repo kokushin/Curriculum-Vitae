@@ -57,12 +57,12 @@
 - 実務経験3年以上
   - React.js
   - Vue.js
+  - Next.js
   - Nuxt.js
   - jQuery
   - WordPress
   
 - 趣味レベル
-  - Next.js
   - Gatsby.js
   - Ruby on Rails
   - Laravel
@@ -73,6 +73,7 @@
 - 実務経験3年以上
   - Firebase
   - レンタルサーバ(VPS)
+  - Vercel
 
 - 趣味レベル
   - AWS(EC2, RDS)
