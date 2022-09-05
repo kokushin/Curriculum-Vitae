@@ -30,7 +30,7 @@
 
 好きなプログラミング言語はJavaScriptとCSS。
 
-[社内インタビュー記事](https://giginc.co.jp/blog/interview/2795)
+[株式会社GIG 社内インタビュー記事](https://giginc.co.jp/blog/interview/2795)
 
 ## スキル
 
