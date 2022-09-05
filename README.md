@@ -26,7 +26,7 @@
 2019年にフリーランスとして独立し、引き続きGIGにて新規事業「[LeadGrid](https://goleadgrid.com/)」(CMSサービス)の初期メンバーとして企画/開発に参加。
 
 2020年に法人化し、株式会社メイクリーを創業。代表取締役に就任する。  
-同年3月より自社の新規事業「[Makelearn](https://makelearn.net/)」（エンジニア向け学習サービス）がスタート。
+同年3月より自社の新規事業「[Makelearn](https://prtimes.jp/main/html/rd/p/000000003.000055509.html)」（エンジニア向け学習サービス）がスタート。
 
 好きなプログラミング言語はJavaScriptとCSS。
 
